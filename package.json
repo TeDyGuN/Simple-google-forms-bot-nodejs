@@ -1,0 +1,14 @@
+{
+  "name": "Simple Google Forms Bot Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ted Carrasco Carrasco",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
